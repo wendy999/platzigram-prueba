@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="activity_horizontal_magin">16dp</dimen>
+    <dimen name="activity_vertical_magin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="eddittext_textsize_login">22sp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_createaccount">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerradius_cardview">4dp</dimen>
+</resources>

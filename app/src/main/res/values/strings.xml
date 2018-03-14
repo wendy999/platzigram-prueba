@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Loguin</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aqui</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_Password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crea Cuenta</string>
+</resources>
